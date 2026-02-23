@@ -24,6 +24,12 @@ This file shows sample inputs and outputs for testing.
 1. In your repo, create a folder `examples/` if it doesn’t exist.
 2. Inside it, create a file: `day2_samples.json`.
 3. Paste this content:
+## Output (Updated)
+- JSON object with fields:
+  - `intent`
+  - `response`
+  - `confidence`
+  - `sentiment` → positive / negative / neutral
 
 ```json
 [
