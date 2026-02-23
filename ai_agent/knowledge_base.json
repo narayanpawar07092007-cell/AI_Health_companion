@@ -1,0 +1,7 @@
+[
+  {"intent":"health_query","question":"water","response":"Drink 2-3 liters daily."},
+  {"intent":"health_query","question":"sleep","response":"Aim for 7-8 hours of sleep."},
+  {"intent":"health_query","question":"steps","response":"Try to walk 8,000–10,000 steps daily."},
+  {"intent":"general_info","question":"hello","response":"Hello! I’m your AI Companion."},
+  {"intent":"fallback","question":"unknown","response":"I’m not sure, can you rephrase?"}
+]
