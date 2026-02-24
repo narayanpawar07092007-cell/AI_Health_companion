@@ -1,10 +1,23 @@
-{
-  "timestamp": "2026-02-24T05:40:00",
-  "user_input": "hello",
-  "agent_output": {
-    "intent": "general_info",
-    "response": "Hello! I’m your AI Companion.",
-    "confidence": 0.95,
-    "sentiment": "positive"
+
+[
+  {
+    "timestamp": "2026-02-24T05:40:00",
+    "user_input": "hello",
+    "agent_output": {
+      "intent": "general_info",
+      "response": "Hello! I’m your AI Companion.",
+      "confidence": 0.95,
+      "sentiment": "positive"
+    }
+  },
+  {
+    "timestamp": "2026-02-24T05:41:00",
+    "user_input": "how much water should I drink",
+    "agent_output": {
+      "intent": "health_query",
+      "response": "Drink 2-3 liters daily. (Your goal: 3 liters)",
+      "confidence": 0.87,
+      "sentiment": "neutral"
+    }
   }
-}
+]
