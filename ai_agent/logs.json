@@ -1,0 +1,10 @@
+{
+  "timestamp": "2026-02-24T05:40:00",
+  "user_input": "hello",
+  "agent_output": {
+    "intent": "general_info",
+    "response": "Hello! I’m your AI Companion.",
+    "confidence": 0.95,
+    "sentiment": "positive"
+  }
+}
